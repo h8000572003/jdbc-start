@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+io.github.h800572003.jdbc.start.JndiAutoConfiguration,\
+io.github.h800572003.jdbc.start.JdbcAutoConfiguration
